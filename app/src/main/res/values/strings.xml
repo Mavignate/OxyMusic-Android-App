@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OxyMusic</string>
+    <string name="play"><![CDATA[>]]></string>
+</resources>
