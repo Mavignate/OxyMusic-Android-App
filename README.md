@@ -9,7 +9,7 @@ This gives users full control over the source of their music and allows them to 
 
 - Music Playback: The application enables playback of music from a selected server
 - Server Selection: MusicPlayer with Server Selection allows users to choose a server from which to stream music. This enables them to access a wide range of tracks from various music streaming services or their own servers.
-- User Interface: The application features a simple and intuitive user interface that grants easy navigation and use of various functions.
+- User Interface: The application features a simple and intuitive user interface that grants an easy navigation and use of various functions.
 - Music Search: The application allows users to search for specific tracks or artists on the selected server or youtube service.
 
 ## Technologies
@@ -26,7 +26,7 @@ Download and install release apk.
 
 ## In Future
 
-- Bugs fixes in music player
+- Bug fixes in music player
 - settings menu
 - save tracks on local device
 
