@@ -22,7 +22,8 @@ OxyMusic has been implemented using the following technologies and tools:
 
 ## Installation
 
-Download and install release apk.
+- Download and install release apk.
+- When you open the app window will come up, you need to paste there your server address (E.g. http://localhost:1250).
 
 ## In Future
 
